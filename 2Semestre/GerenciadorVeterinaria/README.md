@@ -1,10 +1,10 @@
-# 🐾 Sistema de Clínica Veterinária
+# Sistema de Clínica Veterinária
 
 Um sistema em Java desenvolvido para gerenciamento de atendimento em clínicas veterinárias, focado em praticidade para o cadastro de clientes, pets, consultas e serviços médicos.
 
 ---
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 O objetivo deste projeto é aplicar os conceitos fundamentais de **Programação Orientada a Objetos (POO)** e estruturas de dados em Java para simular o fluxo de trabalho de uma clínica veterinária. 
 
@@ -12,7 +12,7 @@ O sistema permite cadastrar tutores, mapear o histórico dos animais e organizar
 
 ---
 
-## 🚀 Funcionalidades Principais
+## Funcionalidades Principais
 
 - **Cadastro de Tutores e Pets:** Vinculação direta entre o responsável e seus animais de estimação.
 - **Gerenciamento de Consultas:** Agendamento e registro do histórico de atendimento médico veterinário.
@@ -21,7 +21,7 @@ O sistema permite cadastrar tutores, mapear o histórico dos animais e organizar
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Linguagem:** Java
 - **Paradigma:** Programação Orientada a Objetos (POO) — Encapsulamento, Abstração e Associação de Classes
@@ -30,7 +30,7 @@ O sistema permite cadastrar tutores, mapear o histórico dos animais e organizar
 
 ---
 
-## 📂 Como Executar o Projeto
+## Como Executar o Projeto
 
 1. Clone este repositório:
    ```bash
