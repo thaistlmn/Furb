@@ -14,19 +14,19 @@ O sistema permite cadastrar tutores, mapear o histórico dos animais e organizar
 
 ## 🚀 Funcionalidades Principais
 
-- **Cadastro de Tutores e Pets:** Vinculação direta entre o responsável e seus animais de estimação.
-- **Gerenciamento de Consultas:** Agendamento e registro do histórico de atendimento médico veterinário.
-- **Controle de Serviços:** Registro de procedimentos, vacinas e tratamentos aplicados.
-- **Menu Interativo:** Navegação via terminal/console para execução das operações do sistema.
+- Cadastro de Tutores e Pets: Vinculação direta entre o responsável e seus animais de estimação.
+- Gerenciamento de Consultas: Agendamento e registro do histórico de atendimento médico veterinário.
+- Controle de Serviços: Registro de procedimentos, vacinas e tratamentos aplicados.
+- Menu Interativo: Navegação via terminal/console para execução das operações do sistema.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem:** Java
-- **Paradigma:** Programação Orientada a Objetos (POO) — Encapsulamento, Abstração e Associação de Classes
-- **Estruturas de Dados:** `ArrayList` para manipulação e persistência temporária dos dados em memória
-- **IDE:** Eclipse (ou IntelliJ / VS Code)
+- Linguagem: Java
+- **Paradigma: Programação Orientada a Objetos (POO) — Encapsulamento, Abstração e Associação de Classes
+- Estruturas de Dados: 'ArrayList' para manipulação e persistência temporária dos dados em memória
+- IDE: Eclipse (ou IntelliJ / VS Code)
 
 ---
 
