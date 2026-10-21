@@ -1,4 +1,4 @@
-# Exercícios de Java ☕
+# Exercícios de Java 
 
 Repositório com exercícios práticos de Java desenvolvidos para fixação de conceitos fundamentais da linguagem, com foco em:
 
