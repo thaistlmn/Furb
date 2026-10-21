@@ -1,2 +1,3 @@
 # Furb
-Exercícios e Projetos realizados durante o curso de Ciência da Computação na FURB - Blumenau
+
+Repositório dedicado a exercícios e projetos desenvolvidos durante a graduação em Ciência da Computação na FURB (Blumenau - SC).
